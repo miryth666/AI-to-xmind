@@ -1,4 +1,4 @@
-# Markdown to XMind Converter
+#  AI-Markdown to XMind Converter
 
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
