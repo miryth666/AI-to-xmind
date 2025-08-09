@@ -1,0 +1,7 @@
+json>=2.0.9
+re>=2.2.1
+markdown>=3.5
+emoji>=1.2.0
+beautifulsoup4>=4.12.2
+colorama>=0.4.6
+xmind>=2.4.1
