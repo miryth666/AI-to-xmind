@@ -2,7 +2,7 @@
 # md_to_xmind.py
 """
 Markdown to XMind Converter
-Author: Your Name
+Author: Miryth666
 Date: 2025/8/5
 Version: 1.0
 
@@ -426,4 +426,5 @@ class MarkdownToXMindConverter:
 
 if __name__ == '__main__':
     converter = MarkdownToXMindConverter()
+
     converter.run()
